@@ -32,9 +32,9 @@ public class AppTest
     }
 
     @Test
-    public void TestCalculerDivisionFaux()
+    public void TestCalculerDivision()
     {
-        assertEquals(Calculateur.CalculerDivision(8,2), 5);
+        assertEquals(Calculateur.CalculerDivision(8,2), 4);
     }
 
 
