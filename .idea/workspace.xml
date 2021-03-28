@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="5886cb65-ae07-4cfb-9ae7-fe592d7cebce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wilfried/helloworld/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wilfried/helloworld/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wilfried/helloworld/Calculateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wilfried/helloworld/Calculateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wilfried/helloworld/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wilfried/helloworld/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wilfried/helloworld/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wilfried/helloworld/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wilfried/helloworld/Calculateur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wilfried/helloworld/Calculateur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.wilfried.helloworld.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.wilfried.helloworld.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.wilfried.helloworld.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.wilfried.helloworld.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wilfried/helloworld/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wilfried/helloworld/AppTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +90,7 @@
       <workItem from="1603873878940" duration="3602000" />
       <workItem from="1603955758147" duration="3674000" />
       <workItem from="1610435739466" duration="4552000" />
+      <workItem from="1616923795207" duration="1395000" />
     </task>
     <servers />
   </component>
