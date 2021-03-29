@@ -6,22 +6,22 @@ package com.wilfried.helloworld;
  */
 public class Calculateur
 {
-    public static int CalculerAddition(int x, int y )
+    public static int calculerAddition(int x, int y )
     {
         return x+y;
     }
 
-    public static int CalculerSoustraction(int x, int y )
+    public static int calculerSoustraction(int x, int y )
     {
         return x-y;
     }
 
-    public static int CalculerMultiplication(int x, int y )
+    public static int calculerMultiplication(int x, int y )
     {
         return x*y;
     }
 
-    public static int CalculerDivision(int x, int y )
+    public static int calculerDivision(int x, int y )
     {
         return x/y;
     }

@@ -16,25 +16,25 @@ public class AppTest
     @Test
     public void TestCalculerAddition()
     {
-        assertEquals(Calculateur.CalculerAddition(1,2), 3);
+        assertEquals(3, Calculateur.calculerAddition(1,2));
     }
 
     @Test
     public void TestCalculerSoustraction()
     {
-        assertEquals(Calculateur.CalculerSoustraction(5,1), 4);
+        assertEquals(4, Calculateur.calculerSoustraction(5,1));
     }
 
     @Test
     public void TestCalculerMultiplication()
     {
-        assertEquals(Calculateur.CalculerMultiplication(5,2), 10);
+        assertEquals(10, Calculateur.calculerMultiplication(5,2));
     }
 
     @Test
     public void TestCalculerDivision()
     {
-        assertEquals(Calculateur.CalculerDivision(8,2), 4);
+        assertEquals(4, Calculateur.calculerDivision(8,2));
     }
 
 
